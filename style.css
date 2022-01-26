@@ -1,0 +1,18 @@
+body{
+    background-color: antiquewhite;
+}
+.heading{
+    color: blue;
+    border-radius: 20px;
+    width: 380px;
+    font-size: 25px;
+}
+.hr_line{
+    height: 5px;
+}
+.fruits_btn{
+    width: 300px;
+    font-size: 25px;
+    border-radius: 20px;
+    border: brown solid;
+}
